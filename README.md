@@ -179,3 +179,4 @@ Ela conecta Python, ciência de dados e fundamentos de IA, preparando para o pri
 2. Busque por "Python AI Backend Developer"  
 3. Inscreva-se gratuitamente  
 4. Siga o cronograma junto com este roadmap  
+.
